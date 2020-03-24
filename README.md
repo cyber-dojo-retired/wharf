@@ -5,4 +5,4 @@ and are ready to be entered.
 Will show the information on red/amber/green traffic lights currently in the group-join page.
 
 - - - -
-![page snapshot](https://github.com/cyber-dojo/shas/blob/master/docs/snapshot.png)
+![page snapshot](https://github.com/cyber-dojo/wharf/blob/master/docs/snapshot.png)
